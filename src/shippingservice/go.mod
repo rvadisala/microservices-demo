@@ -6,7 +6,7 @@ require (
 	cloud.google.com/go/profiler v0.3.0
 	github.com/golang/protobuf v1.5.2
 	github.com/sirupsen/logrus v1.9.0
-	golang.org/x/net v0.2.0
+	golang.org/x/net v0.7.0
 	google.golang.org/grpc v1.51.0
 )
 
@@ -19,8 +19,8 @@ require (
 	github.com/googleapis/gax-go/v2 v2.4.0 // indirect
 	go.opencensus.io v0.23.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5 // indirect
-	golang.org/x/sys v0.2.0 // indirect
-	golang.org/x/text v0.4.0 // indirect
+	golang.org/x/sys v0.5.0 // indirect
+	golang.org/x/text v0.7.0 // indirect
 	google.golang.org/api v0.78.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20220518221133-4f43b3371335 // indirect
